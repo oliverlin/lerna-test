@@ -3698,6 +3698,11 @@ cssstyle@^1.0.0, cssstyle@^1.1.1:
   dependencies:
     cssom "0.3.x"
 
+custom-react-package@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/custom-react-package/-/custom-react-package-1.0.0.tgz#4ae9a4bdb365df9fd9fa903c1573e5330cc09215"
+  integrity sha512-JrKvTLtoNLdtPsPa6S2XvFTxc2zDxdTOnCfuZhlYrCsgBvz8ekSrYJfAh8B7uRcv/k9t0P7gWFFYv/HsRRf8Yg==
+
 cyclist@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/cyclist/-/cyclist-1.0.1.tgz#596e9698fd0c80e12038c2b82d6eb1b35b6224d9"
