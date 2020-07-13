@@ -1,6 +1,6 @@
 {
   "name": "custom-package-master",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Made with create-react-library",
   "author": "oliverlin",
   "license": "MIT",
@@ -28,7 +28,7 @@
     "react": "^16.0.0"
   },
   "dependencies": {
-    "custom-react-package": "^1.1.0"
+    "custom-react-package": "^1.2.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
