@@ -1,6 +1,7 @@
 {
   "name": "custom-package-master",
   "version": "1.0.4-alpha.0",
+  "private": true,
   "description": "Made with create-react-library",
   "author": "oliverlin",
   "license": "MIT",
